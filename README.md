@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a Generative AI professional and Flutter devel
 
 ## 🧰 Skills & Tools
 
-- **Programming & Concepts:** Python, OOPs, SQL, Dart, HTML/CSS
 - **AI/ML:** Generative AI, LLMs, RAG, Agentic AI, NLP, LangChain, LangGraph, Prompt Engineering
+- **Programming & Concepts:** Python, OOPs, SQL, Dart, HTML/CSS
 - **Cloud (AWS):** AWS Amplify, Amazon Textract, Amazon S3, Amazon Cognito, AWS Lambda
 - **Testing & QA:** Functional Testing, Integration Testing, Test Case Design, End-to-End Validation
 - **Tools & Platforms:** Git, GitHub, Docker, LangFlow, LangFuse, Gradio, n8n
