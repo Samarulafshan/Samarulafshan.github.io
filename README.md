@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a Generative AI professional and Flutter devel
 
 ## 📫 Let's Connect
 📧 Email: (samarulafshann@gmai.com)
+🌐 Portfolio: (https://samarulafshan.github.io)
 💼 LinkedIn: (https://www.linkedin.com/in/samarulafshan/)
 
 
